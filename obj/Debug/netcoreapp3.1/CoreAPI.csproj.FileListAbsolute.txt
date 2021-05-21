@@ -1,0 +1,12 @@
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\bin\Debug\netcoreapp3.1\CoreAPI.deps.json
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\bin\Debug\netcoreapp3.1\CoreAPI.dll
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\bin\Debug\netcoreapp3.1\CoreAPI.pdb
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.csprojAssemblyReference.cache
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.AssemblyInfoInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.AssemblyInfo.cs
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.dll
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.pdb
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\HOANG TRUNG\source\repos\Test\CoreAPI\obj\Debug\netcoreapp3.1\CoreAPI.csproj.CopyComplete
