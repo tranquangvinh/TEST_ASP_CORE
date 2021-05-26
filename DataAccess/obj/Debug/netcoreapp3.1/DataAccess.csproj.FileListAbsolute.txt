@@ -1,0 +1,17 @@
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\HOANG TRUNG\source\repos\Test\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\HOANG TRUNG\source\repos\Test_ASP.NETCOREAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache

@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\Test\\TestAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\Business.csproj",
+        "packagesPath": "C:\\Users\\HOANG TRUNG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG TRUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HOANG TRUNG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG TRUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\Test\\TestAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\Test\\TestAPI.csproj",
+        "projectName": "TestAPI",
+        "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\Test\\TestAPI.csproj",
+        "packagesPath": "C:\\Users\\HOANG TRUNG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HOANG TRUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\Business.csproj": {
+                "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\CoreAPI\\Business.csproj"
+              },
+              "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\HOANG TRUNG\\source\\repos\\Test_ASP.NETCOREAPI\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
